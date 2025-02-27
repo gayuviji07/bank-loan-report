@@ -27,6 +27,13 @@ Home Ownership Analysis (Tree Map): Impact of home ownership on loan approvals.
 Comprehensive Data Overview: A centralized dashboard for granular loan details.
 Loan Portfolio Performance: Tracking borrower profiles and repayment trends.
 
+
 ## DASHBOARD
 <a href="https://github.com/gayuviji07/bank-loan-report/blob/main/BANK_LOAN1.pbix">dashboard</a>
+
+## DASHBOARD SCREENSHOT
+C:\Users\VIJAYASRI VENGADESH\Pictures\Screenshots\Screenshot 2025-02-26 201647.png
+C:\Users\VIJAYASRI VENGADESH\Pictures\Screenshots\Screenshot 2025-02-26 201710.png
+C:\Users\VIJAYASRI VENGADESH\Pictures\Screenshots\Screenshot 2025-02-26 201737.png
+
 
