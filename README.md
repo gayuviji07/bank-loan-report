@@ -32,8 +32,8 @@ Loan Portfolio Performance: Tracking borrower profiles and repayment trends.
 <a href="https://github.com/gayuviji07/bank-loan-report/blob/main/BANK_LOAN1.pbix">dashboard</a>
 
 ## DASHBOARD SCREENSHOT
-C:\Users\VIJAYASRI VENGADESH\Pictures\Screenshots\Screenshot 2025-02-26 201647.png
-C:\Users\VIJAYASRI VENGADESH\Pictures\Screenshots\Screenshot 2025-02-26 201710.png
-C:\Users\VIJAYASRI VENGADESH\Pictures\Screenshots\Screenshot 2025-02-26 201737.png
+"C:\Users\VIJAYASRI VENGADESH\Pictures\Bank loan report dashborad1.png"
+"C:\Users\VIJAYASRI VENGADESH\Pictures\bank loan report dashboard 2.png"
+"C:\Users\VIJAYASRI VENGADESH\Pictures\bank loan report dashboard3 .png"
 
 
