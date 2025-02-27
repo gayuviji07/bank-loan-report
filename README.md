@@ -38,5 +38,20 @@ Loan Portfolio Performance: Tracking borrower profiles and repayment trends.
 <a href="https://github.com/gayuviji07/bank-loan-report/blob/main/bank%20loan%20report%20dashboard%202.png">overview</a>
 <a href="https://github.com/gayuviji07/bank-loan-report/blob/main/bank%20loan%20report%20dashboard3%20.png">details</a>
 
+## Technical Skills Covered
+### SQL (MySQL Database)
+Creating tables, databases, and queries
+Data manipulation: SELECT, GROUP BY, ORDER BY, JOIN, COUNT, AVG, etc.
+Date functions, numerical calculations, and data filtering
+### Power BI
+Connecting to SQL Server
+Data Cleaning & Transformation using Power Query
+Data Modeling & DAX Functions (SUM, SUMX, CALCULATE, etc.)
+Time Intelligence (Date Tables, Time-based Analysis)
+Creating KPIs and interactive visuals
+
+## Conclusion
+This project provides valuable insights into bank loan operations by leveraging SQL for data extraction and Power BI for visualization. It enables decision-makers to track loan health, borrower behavior, and repayment patterns for better risk management.
+
 
 
